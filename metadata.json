@@ -1,0 +1,6 @@
+{
+  "name": "GymLite - Ultra-Fast Workout Tracker",
+  "description": "Ultra-lightweight, zero-bloat workout logger and rest timer built for Android and web. 100% offline, synthesized Web Audio chimes, zero accounts, and instant response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
